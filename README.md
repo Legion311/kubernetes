@@ -1,2 +1,2 @@
 # kubernetes
-Deploy docker... into kubernetes
+Deploy docker into kubernetes
